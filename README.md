@@ -32,6 +32,15 @@ This Unity Editor tool allows you to **change the max texture size** of all text
 
 ---
 
+## 📥 How to Install
+1. Open Unity and go to **Window** → **Package Manager**.
+2. In the **Package Manager**, click the **"+"** button in the top left.
+3. Select **Add package** from Git URL.
+4. Paste the **"https://github.com/EmiroDeve/easy_texture_resizer.git"**.
+5. Click **Add** or **Install** to install the tool.
+
+---
+
 ## 🎨 UI Breakdown
 - **Max Texture Size Dropdown** → Select the new max size for textures.
 - **Exclude Textures List** → List of images that won’t be modified.
