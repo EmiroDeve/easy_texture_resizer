@@ -1,0 +1,13 @@
+{
+  "name": "com.emirodeve.easytextureresizer",
+  "version": "1.0.0",
+  "displayName": "Easy Texture Resizer",
+  "description": "A Unity Editor tool to easily change the max texture size while excluding specific textures.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Emiro",
+    "email": "emirodeve@gmail.com",
+    "url": "https://github.com/EmiroDeve/easy_texture_resizer"
+  },
+  "dependencies": {}
+}
